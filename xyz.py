@@ -13,3 +13,4 @@ print("stash1")
 print("stash5")
 
 print("jo")
+print("kite")
